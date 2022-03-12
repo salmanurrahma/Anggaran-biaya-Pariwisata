@@ -1,17 +1,17 @@
-## Senbi - Aplikasi Pengelola Budget Perusahaan
+## Euphoria - Aplikasi Anggaran Biaya Pariwisata
 
-### Story
-Senbi adalah solusi untuk salah satu perusahaan yang sebelumnya sulit untuk mengelola / mengkontrol keuangan dalam lingkup perusahaan, dengan adanya Senbi, salah satu perusahaan yang ada di Jakarta dapat mengelola keuangan dengan lebih terperinci dan transaparan baik kepada atasan dan divisi lainnya.
+### Euphoria 
+Euphoria merupakan aplikasi berbasis mobile yang mengarah pada sistem manajemen tempat wisata (Kolam Renang Kali Meri) sebuah sistem yang dirancang sebagai solusi untuk menangani berbagai hal dalam pengurusan tempat wisata mulai dari mengolah data untuk menghasilkan informasi yang berkualitas, yaitu informasi yang relevan, akurat dan tepat waktu. Tempat wisata ini sangat membutuhkan teknologi untuk pemasaran,dokumentasi maupun pendataan yang sangat penting untuk mendukung perkembangan tempat wisata. 
 
-### Hak User
-| Level |  Membuat Anggaran |  Cek Anggaran  | Approve Anggaran | Membuat Rencana Kerja dan Anggaran |
-| ------ |:-----:| :-----: | :-----: | :-----: |
-|  **Maker**  | Ya  |  Tidak | Tidak | Ya |
-|   **Checker**  |  Tidak  | Ya | Ya, diteruskan ke Approval | Tidak |
-|  **Approval**  |  Ya  | Ya | Ya | Tidak |
+Aplikasi ini ditujukan kepada pengunjung untuk mempermudah melakukan pemesanan tiket dan booking tempat karena di tempat wisata ini masih menggunakan cara manual, sehingga data yang masuk belum efektif. Maka dari itu kami mempunyai tujuan untuk mengembangkan aplikasi ini ditempat wisata tersebut.
 
-### Cara Penggunaan
-- Maker menginput Anggaran
-- Jika anggaran di rasa realistis oleh sistem (tidak melebihi RKA dan Realisasi tahun tersebut) maka selanjutnya akan ada di laporan level checker.
-- Checker akan meng-control anggaran mana yang akan di teruskan kepada approval (direktur), checker juga berhak menolak.
-- Approval akan menyetujui setiap anggaran yang telah di approve oleh Checker, Approval berhak untuk mendapatkan laporan.
+### SASARAN DAN MANFAAT
+1. Meningkatkan efektivitas dan efisiensi kualitas layana.
+2. Memudahkan dan mempercepat pelayanan dalam melakukan pemesanan.
+3. Meningkatkan kualitas dan kecepatan penyusunan data yang masuk.
+4. Memudahkan pemilik dalam proses monitoring.
+5. Meningkatkan daya tarik pengunjung.
+6. Wisatawan dapat dengan mudah mencari informasi terkait obyek wisata yang akan dikunjungi.
+
+### ARSITEKTUR APLIKASI
+Euphoria merupakan aplikasi mobile yang menggunakan framework flutter. Terdapat 2 level user yaitu admin dan pengunjung. Admin dan pengunjung dapat mengakses aplikasi ini dengan menggunakan smartphone.
