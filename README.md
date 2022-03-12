@@ -1,4 +1,5 @@
 ## Euphoria - Aplikasi Anggaran Biaya Pariwisata
+![EUPHORIA Logo](https://user-images.githubusercontent.com/99798368/158006341-43367ae0-1d1b-491d-b69d-1d4b7177334a.png)
 
 ### Euphoria 
 Euphoria merupakan aplikasi berbasis mobile yang mengarah pada sistem manajemen tempat wisata (Kolam Renang Kali Meri) sebuah sistem yang dirancang sebagai solusi untuk menangani berbagai hal dalam pengurusan tempat wisata mulai dari mengolah data untuk menghasilkan informasi yang berkualitas, yaitu informasi yang relevan, akurat dan tepat waktu. Tempat wisata ini sangat membutuhkan teknologi untuk pemasaran,dokumentasi maupun pendataan yang sangat penting untuk mendukung perkembangan tempat wisata. 
